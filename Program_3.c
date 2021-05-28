@@ -10,9 +10,12 @@
 int main()
 {
 	char str[10];
+  printf("Enter your string");
 	scanf("%s", str);
 
 	//Write your code here
+  
+
 	
 	return 0;
 }

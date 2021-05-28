@@ -6,9 +6,10 @@
 int main()
 {
 	char str[10];
+  printf("Enter the string\n");
 	scanf("%s", str);
 
-	//Write your code here
+	//Write your code;
 
 	return 0;
 }
